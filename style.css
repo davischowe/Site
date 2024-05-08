@@ -1,0 +1,30 @@
+h1{
+    display: flex;
+    font-weight: 600;
+    font-size: 42px;
+    color:aqua;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color : whitesmoke;
+}
+body{
+    background-color: rgb(112, 106, 106);
+}
+a {
+    color: aqua;
+    margin-bottom: 10px;
+}
+a:hover{
+    color: rgb(37, 134, 151);
+    cursor: pointer;
+    font-size: 2.0rem;
+    transition : 2s;
+} 
+header a{
+    color:rgb(115, 180, 175);
+    margin: 20px;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
