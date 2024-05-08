@@ -11,10 +11,12 @@ p{
 }
 body{
     background-color: rgb(112, 106, 106);
+    margin-right: 4px;
 }
 a {
     color: aqua;
     margin-bottom: 10px;
+    margin-right: 10px;
 }
 a:hover{
     color: rgb(37, 134, 151);
@@ -27,4 +29,5 @@ header a{
     margin: 20px;
     text-decoration: none;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-right: 20px;
 }
